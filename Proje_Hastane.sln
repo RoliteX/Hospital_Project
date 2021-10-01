@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje_Hastane", "Proje_Hastane\Proje_Hastane.csproj", "{527861AB-589B-4A53-8408-84DAFFCBB26D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProjeHastane", "ProjeHastane\ProjeHastane.vdproj", "{5FB891D1-451D-44A9-BC70-D338B52D5E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527861AB-589B-4A53-8408-84DAFFCBB26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527861AB-589B-4A53-8408-84DAFFCBB26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527861AB-589B-4A53-8408-84DAFFCBB26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527861AB-589B-4A53-8408-84DAFFCBB26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB891D1-451D-44A9-BC70-D338B52D5E1A}.Debug|Any CPU.ActiveCfg = Debug
+		{5FB891D1-451D-44A9-BC70-D338B52D5E1A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {810E7456-E858-4C50-A9F4-64FF726783FE}
+	EndGlobalSection
+EndGlobal
